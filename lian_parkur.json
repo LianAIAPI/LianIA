@@ -1,0 +1,75 @@
+{
+  "project": {
+    "name": "Lian Parkur",
+    "current_focus": "Lian Parkur 2D",
+    "history_start": "2025-12-27",
+    "first_anniversary": "2026-12-27",
+    "story_status": "La historia actual termina en el nivel 5, pero el creador planea extenderla porque el juego sigue en desarrollo."
+  },
+  "levels": {
+    "1": "Nivel 1",
+    "2": "Nivel 2",
+    "3": "Nivel 3",
+    "4": "Corre de lavar",
+    "5": "La Aldea"
+  },
+  "village": "La Aldea es el nivel 5 y es donde viven Lian, PIX, GPT y Ring Master.",
+  "characters": {
+    "Lian": "Personaje principal del juego.",
+    "PIX": "Personaje de Lian Parkur que vive en La Aldea.",
+    "GPT": "Personaje/prototipo de robot que vive en La Aldea.",
+    "Ring Master": "Personaje cirquero que vive en La Aldea."
+  },
+  "extensions": [
+    "Gamepads",
+    "SpriteMultitouchJoystick",
+    "SmoothCamera",
+    "Parallax",
+    "LoadCustomImage",
+    "LianCustomCharacter",
+    "AdvancedJump",
+    "ShakeObject",
+    "ButtonStates",
+    "TimedBackAndForthMovement",
+    "TwoChoicesDialogBoxes",
+    "PanelSpriteButton"
+  ],
+  "scenes_and_modes": [
+    "Inicio",
+    "Nivel 1",
+    "Nivel 2",
+    "Nivel 3",
+    "Corre de lavar - Nivel 4",
+    "La aldea - Nivel 5",
+    "Nivel para Thiago",
+    "Mensaje de próximamente",
+    "Modo de selección de nivel",
+    "Nivel personalizado",
+    "Multiplayer"
+  ],
+  "anniversary": {
+    "date": "2026-12-27",
+    "planned_features": [
+      "Lian IA dentro del juego",
+      "Galería disponible durante diciembre",
+      "Imágenes",
+      "Resumen de nuevos personajes",
+      "Sonidos",
+      "Pistas o chismes sobre próximas actualizaciones",
+      "Evento multiplayer 3D"
+    ],
+    "order": [
+      "Primero integrar Lian IA",
+      "Después crear la galería",
+      "Al final desarrollar el evento 3D"
+    ],
+    "availability": "Todo el contenido del aniversario estará disponible antes de terminar diciembre de 2026."
+  },
+  "development": {
+    "engine": "GDevelop",
+    "platform_focus": "Android/GDevelop",
+    "multiplayer": "Lian Parkur tiene sistema multiplayer y chat integrado.",
+    "custom_levels": "Existe un modo/nivel personalizado.",
+    "future": "La historia y el contenido seguirán creciendo con actualizaciones."
+  }
+}
